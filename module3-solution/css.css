@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.chick, .beef, .sushi{
+    border: 1px solid black;
+    padding: 5px;
+    width:230px;
+    height:auto;
+    position:static;
+    padding:0 0 0 0;
+    margin: 1%;
+    background-color: gray;
+    box-sizing: border-box;
+
+}
+.sec, .thi, .fir{
+    color: black;
+    text-align: center;
+}
+.navbar-brand{
+    color: azure;
+}
